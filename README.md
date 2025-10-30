@@ -14,6 +14,7 @@
 | [0001-two-sum](https://github.com/iindes/galleria-foret/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iindes/galleria-foret/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/iindes/galleria-foret/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/iindes/galleria-foret/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/iindes/galleria-foret/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -58,8 +59,13 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iindes/galleria-foret/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/iindes/galleria-foret/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/iindes/galleria-foret/tree/master/0141-linked-list-cycle) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/iindes/galleria-foret/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/iindes/galleria-foret/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
