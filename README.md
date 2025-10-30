@@ -31,10 +31,12 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/iindes/galleria-foret/tree/master/0191-number-of-1-bits) |
+| [0371-sum-of-two-integers](https://github.com/iindes/galleria-foret/tree/master/0371-sum-of-two-integers) |
 ## Math
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/iindes/galleria-foret/tree/master/0070-climbing-stairs) |
+| [0371-sum-of-two-integers](https://github.com/iindes/galleria-foret/tree/master/0371-sum-of-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
