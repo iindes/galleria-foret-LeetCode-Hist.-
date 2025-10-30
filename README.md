@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iindes/galleria-foret/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/iindes/galleria-foret/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/iindes/galleria-foret/tree/master/0070-climbing-stairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/iindes/galleria-foret/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
