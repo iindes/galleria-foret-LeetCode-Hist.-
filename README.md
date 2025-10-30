@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iindes/galleria-foret/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/iindes/galleria-foret/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/iindes/galleria-foret/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
@@ -45,6 +46,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/iindes/galleria-foret/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/iindes/galleria-foret/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iindes/galleria-foret/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
@@ -54,6 +56,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/iindes/galleria-foret/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/iindes/galleria-foret/tree/master/0125-valid-palindrome) |
 ## Union Find
 |  |
