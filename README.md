@@ -30,4 +30,16 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/iindes/galleria-foret/tree/master/0191-number-of-1-bits) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/iindes/galleria-foret/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/iindes/galleria-foret/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/iindes/galleria-foret/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
