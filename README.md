@@ -22,4 +22,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iindes/galleria-foret/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/iindes/galleria-foret/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/iindes/galleria-foret/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
