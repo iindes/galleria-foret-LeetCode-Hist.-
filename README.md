@@ -8,6 +8,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iindes/galleria-foret/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/iindes/galleria-foret/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/iindes/galleria-foret/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/iindes/galleria-foret/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,10 +17,12 @@
 | [0128-longest-consecutive-sequence](https://github.com/iindes/galleria-foret/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/iindes/galleria-foret/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/iindes/galleria-foret/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/iindes/galleria-foret/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/iindes/galleria-foret/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/iindes/galleria-foret/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -38,11 +41,13 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/iindes/galleria-foret/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/iindes/galleria-foret/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/iindes/galleria-foret/tree/master/0371-sum-of-two-integers) |
 ## Math
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/iindes/galleria-foret/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/iindes/galleria-foret/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/iindes/galleria-foret/tree/master/0371-sum-of-two-integers) |
 ## Dynamic Programming
 |  |
@@ -68,4 +73,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/iindes/galleria-foret/tree/master/0141-linked-list-cycle) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/iindes/galleria-foret/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
