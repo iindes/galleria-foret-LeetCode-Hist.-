@@ -75,6 +75,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/iindes/galleria-foret/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/iindes/galleria-foret/tree/master/0141-linked-list-cycle) |
 ## Binary Search
 |  |
@@ -88,4 +89,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/iindes/galleria-foret/tree/master/0011-container-with-most-water) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/iindes/galleria-foret/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
