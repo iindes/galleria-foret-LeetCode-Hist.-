@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/iindes/galleria-foret/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/iindes/galleria-foret/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/iindes/galleria-foret/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/iindes/galleria-foret/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iindes/galleria-foret/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/iindes/galleria-foret/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/iindes/galleria-foret/tree/master/0217-contains-duplicate) |
@@ -43,6 +44,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/iindes/galleria-foret/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/iindes/galleria-foret/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/iindes/galleria-foret/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/iindes/galleria-foret/tree/master/0371-sum-of-two-integers) |
@@ -98,4 +100,5 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/iindes/galleria-foret/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/iindes/galleria-foret/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
