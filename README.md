@@ -33,6 +33,7 @@
 | [0005-longest-palindromic-substring](https://github.com/iindes/galleria-foret/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/iindes/galleria-foret/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/iindes/galleria-foret/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/iindes/galleria-foret/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0011-container-with-most-water](https://github.com/iindes/galleria-foret/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/iindes/galleria-foret/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/iindes/galleria-foret/tree/master/0141-linked-list-cycle) |
+| [0344-reverse-string](https://github.com/iindes/galleria-foret/tree/master/0344-reverse-string) |
 ## Union Find
 |  |
 | ------- |
