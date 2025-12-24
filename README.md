@@ -12,6 +12,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/iindes/galleria-foret/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/iindes/galleria-foret/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/iindes/galleria-foret/tree/master/0268-missing-number) |
+| [0747-min-cost-climbing-stairs](https://github.com/iindes/galleria-foret/tree/master/0747-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0005-longest-palindromic-substring](https://github.com/iindes/galleria-foret/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/iindes/galleria-foret/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iindes/galleria-foret/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0747-min-cost-climbing-stairs](https://github.com/iindes/galleria-foret/tree/master/0747-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
