@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/iindes/galleria-foret/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/iindes/galleria-foret/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/iindes/galleria-foret/tree/master/0039-combination-sum) |
+| [0055-jump-game](https://github.com/iindes/galleria-foret/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/iindes/galleria-foret/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iindes/galleria-foret/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/iindes/galleria-foret/tree/master/0128-longest-consecutive-sequence) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iindes/galleria-foret/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/iindes/galleria-foret/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/iindes/galleria-foret/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iindes/galleria-foret/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0747-min-cost-climbing-stairs](https://github.com/iindes/galleria-foret/tree/master/0747-min-cost-climbing-stairs) |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/iindes/galleria-foret/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/iindes/galleria-foret/tree/master/0055-jump-game) |
 ## Recursion
 |  |
 | ------- |
