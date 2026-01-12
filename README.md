@@ -34,6 +34,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/iindes/galleria-foret/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/iindes/galleria-foret/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/iindes/galleria-foret/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/iindes/galleria-foret/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/iindes/galleria-foret/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/iindes/galleria-foret/tree/master/0344-reverse-string) |
 ## Sliding Window
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iindes/galleria-foret/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/iindes/galleria-foret/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/iindes/galleria-foret/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/iindes/galleria-foret/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iindes/galleria-foret/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -106,6 +108,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/iindes/galleria-foret/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/iindes/galleria-foret/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/iindes/galleria-foret/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
