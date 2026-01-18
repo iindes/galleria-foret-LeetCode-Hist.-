@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/iindes/galleria-foret/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/iindes/galleria-foret/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/iindes/galleria-foret/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/iindes/galleria-foret/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/iindes/galleria-foret/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/iindes/galleria-foret/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iindes/galleria-foret/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -110,5 +111,6 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/iindes/galleria-foret/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/iindes/galleria-foret/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/iindes/galleria-foret/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/iindes/galleria-foret/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
