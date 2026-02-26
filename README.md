@@ -22,6 +22,7 @@
 | [0001-two-sum](https://github.com/iindes/galleria-foret/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iindes/galleria-foret/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/iindes/galleria-foret/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/iindes/galleria-foret/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/iindes/galleria-foret/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/iindes/galleria-foret/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/iindes/galleria-foret/tree/master/0217-contains-duplicate) |
@@ -122,4 +123,16 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/iindes/galleria-foret/tree/master/0139-word-break) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/iindes/galleria-foret/tree/master/0133-clone-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/iindes/galleria-foret/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/iindes/galleria-foret/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
