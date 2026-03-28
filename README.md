@@ -14,6 +14,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/iindes/galleria-foret/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/iindes/galleria-foret/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/iindes/galleria-foret/tree/master/0217-contains-duplicate) |
+| [0252-meeting-rooms](https://github.com/iindes/galleria-foret/tree/master/0252-meeting-rooms) |
 | [0268-missing-number](https://github.com/iindes/galleria-foret/tree/master/0268-missing-number) |
 | [0747-min-cost-climbing-stairs](https://github.com/iindes/galleria-foret/tree/master/0747-min-cost-climbing-stairs) |
 ## Hash Table
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/iindes/galleria-foret/tree/master/0217-contains-duplicate) |
+| [0252-meeting-rooms](https://github.com/iindes/galleria-foret/tree/master/0252-meeting-rooms) |
 | [0268-missing-number](https://github.com/iindes/galleria-foret/tree/master/0268-missing-number) |
 ## String
 |  |
