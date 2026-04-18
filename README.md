@@ -129,12 +129,19 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/iindes/galleria-foret/tree/master/0133-clone-graph) |
+| [0261-graph-valid-tree](https://github.com/iindes/galleria-foret/tree/master/0261-graph-valid-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/iindes/galleria-foret/tree/master/0133-clone-graph) |
+| [0261-graph-valid-tree](https://github.com/iindes/galleria-foret/tree/master/0261-graph-valid-tree) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/iindes/galleria-foret/tree/master/0133-clone-graph) |
+| [0261-graph-valid-tree](https://github.com/iindes/galleria-foret/tree/master/0261-graph-valid-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0261-graph-valid-tree](https://github.com/iindes/galleria-foret/tree/master/0261-graph-valid-tree) |
 <!---LeetCode Topics End-->
