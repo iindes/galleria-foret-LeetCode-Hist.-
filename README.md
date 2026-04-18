@@ -44,6 +44,7 @@
 | [0125-valid-palindrome](https://github.com/iindes/galleria-foret/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/iindes/galleria-foret/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/iindes/galleria-foret/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/iindes/galleria-foret/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0070-climbing-stairs](https://github.com/iindes/galleria-foret/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iindes/galleria-foret/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/iindes/galleria-foret/tree/master/0139-word-break) |
+| [0647-palindromic-substrings](https://github.com/iindes/galleria-foret/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/iindes/galleria-foret/tree/master/0747-min-cost-climbing-stairs) |
 ## Memoization
 |  |
@@ -88,6 +90,7 @@
 | [0125-valid-palindrome](https://github.com/iindes/galleria-foret/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/iindes/galleria-foret/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/iindes/galleria-foret/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/iindes/galleria-foret/tree/master/0647-palindromic-substrings) |
 ## Union Find
 |  |
 | ------- |
