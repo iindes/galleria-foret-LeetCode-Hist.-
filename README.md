@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/iindes/galleria-foret/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/iindes/galleria-foret/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/iindes/galleria-foret/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/iindes/galleria-foret/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/iindes/galleria-foret/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/iindes/galleria-foret/tree/master/0055-jump-game) |
@@ -31,6 +32,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/iindes/galleria-foret/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/iindes/galleria-foret/tree/master/0217-contains-duplicate) |
 | [0252-meeting-rooms](https://github.com/iindes/galleria-foret/tree/master/0252-meeting-rooms) |
 | [0268-missing-number](https://github.com/iindes/galleria-foret/tree/master/0268-missing-number) |
@@ -87,6 +89,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iindes/galleria-foret/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/iindes/galleria-foret/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/iindes/galleria-foret/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/iindes/galleria-foret/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/iindes/galleria-foret/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/iindes/galleria-foret/tree/master/0344-reverse-string) |
