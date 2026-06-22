@@ -17,6 +17,7 @@
 | [0217-contains-duplicate](https://github.com/iindes/galleria-foret/tree/master/0217-contains-duplicate) |
 | [0252-meeting-rooms](https://github.com/iindes/galleria-foret/tree/master/0252-meeting-rooms) |
 | [0268-missing-number](https://github.com/iindes/galleria-foret/tree/master/0268-missing-number) |
+| [0269-alien-dictionary](https://github.com/iindes/galleria-foret/tree/master/0269-alien-dictionary) |
 | [0747-min-cost-climbing-stairs](https://github.com/iindes/galleria-foret/tree/master/0747-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@
 | [0022-generate-parentheses](https://github.com/iindes/galleria-foret/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/iindes/galleria-foret/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/iindes/galleria-foret/tree/master/0139-word-break) |
+| [0269-alien-dictionary](https://github.com/iindes/galleria-foret/tree/master/0269-alien-dictionary) |
 | [0344-reverse-string](https://github.com/iindes/galleria-foret/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/iindes/galleria-foret/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
@@ -140,18 +142,25 @@
 | ------- |
 | [0133-clone-graph](https://github.com/iindes/galleria-foret/tree/master/0133-clone-graph) |
 | [0261-graph-valid-tree](https://github.com/iindes/galleria-foret/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/iindes/galleria-foret/tree/master/0269-alien-dictionary) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/iindes/galleria-foret/tree/master/0133-clone-graph) |
 | [0261-graph-valid-tree](https://github.com/iindes/galleria-foret/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/iindes/galleria-foret/tree/master/0269-alien-dictionary) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/iindes/galleria-foret/tree/master/0133-clone-graph) |
 | [0261-graph-valid-tree](https://github.com/iindes/galleria-foret/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/iindes/galleria-foret/tree/master/0269-alien-dictionary) |
 ## Union-Find
 |  |
 | ------- |
 | [0261-graph-valid-tree](https://github.com/iindes/galleria-foret/tree/master/0261-graph-valid-tree) |
+## Topological Sort
+|  |
+| ------- |
+| [0269-alien-dictionary](https://github.com/iindes/galleria-foret/tree/master/0269-alien-dictionary) |
 <!---LeetCode Topics End-->
