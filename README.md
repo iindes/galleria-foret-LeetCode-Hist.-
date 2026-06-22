@@ -18,6 +18,7 @@
 | [0252-meeting-rooms](https://github.com/iindes/galleria-foret/tree/master/0252-meeting-rooms) |
 | [0268-missing-number](https://github.com/iindes/galleria-foret/tree/master/0268-missing-number) |
 | [0269-alien-dictionary](https://github.com/iindes/galleria-foret/tree/master/0269-alien-dictionary) |
+| [0271-encode-and-decode-strings](https://github.com/iindes/galleria-foret/tree/master/0271-encode-and-decode-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/iindes/galleria-foret/tree/master/0747-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@
 | [0125-valid-palindrome](https://github.com/iindes/galleria-foret/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/iindes/galleria-foret/tree/master/0139-word-break) |
 | [0269-alien-dictionary](https://github.com/iindes/galleria-foret/tree/master/0269-alien-dictionary) |
+| [0271-encode-and-decode-strings](https://github.com/iindes/galleria-foret/tree/master/0271-encode-and-decode-strings) |
 | [0344-reverse-string](https://github.com/iindes/galleria-foret/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/iindes/galleria-foret/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [0269-alien-dictionary](https://github.com/iindes/galleria-foret/tree/master/0269-alien-dictionary) |
+## Design
+|  |
+| ------- |
+| [0271-encode-and-decode-strings](https://github.com/iindes/galleria-foret/tree/master/0271-encode-and-decode-strings) |
 <!---LeetCode Topics End-->
